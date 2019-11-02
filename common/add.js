@@ -17,7 +17,7 @@ module.exports = () => {
    console.log('再次增加打印2222')
    console.log('22:49')
    console.log('22:54')
-   console.log('22:56')
+   console.log('22:58')
     
    // 避免重复添加
    if (!config.tpl[tplName]) {
