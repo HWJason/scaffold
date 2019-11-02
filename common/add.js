@@ -18,6 +18,7 @@ module.exports = () => {
    console.log('22:49')
    console.log('22:54')
    console.log('22:58')
+   console.log('23:15')
     
    // 避免重复添加
    if (!config.tpl[tplName]) {
