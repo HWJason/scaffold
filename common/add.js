@@ -12,12 +12,7 @@ module.exports = () => {
    let tplName = yield prompt('Template name: ')
    let gitUrl = yield prompt('Git https link: ')
    let branch = yield prompt('Branch: ')
-   console.log('用来测试测试上传')
-   console.log('用来测试测试上传1')
-   console.log('再次增加打印2222')
-   console.log('22:49')
-   console.log('22:54')
-   console.log('22:58')
+   
     
    // 避免重复添加
    if (!config.tpl[tplName]) {
