@@ -16,6 +16,7 @@ module.exports = () => {
    console.log('用来测试测试上传1')
    console.log('再次增加打印2222')
    console.log('22:49')
+   console.log('22:54')
     
    // 避免重复添加
    if (!config.tpl[tplName]) {
