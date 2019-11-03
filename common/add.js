@@ -14,9 +14,8 @@ module.exports = () => {
    let branch = yield prompt('Branch: ')
 
 
-   console.log('3好1次')
-   console.log('3好2次')
-   console.log('3好3次')
+   console.log('>>>>>git3333')
+   console.log('3号第四次提交')
 
    // 避免重复添加
    if (!config.tpl[tplName]) {
