@@ -13,7 +13,10 @@ module.exports = () => {
    let gitUrl = yield prompt('Git https link: ')
    let branch = yield prompt('Branch: ')
 
+
    console.log('>>>>>git')
+   console.log('22:40')
+
    // 避免重复添加
    if (!config.tpl[tplName]) {
      config.tpl[tplName] = {}
