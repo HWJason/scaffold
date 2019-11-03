@@ -14,7 +14,7 @@ module.exports = () => {
    let branch = yield prompt('Branch: ')
 
 
-   console.log('>>>>>git3333')
+   console.log('3好1次')
 
    // 避免重复添加
    if (!config.tpl[tplName]) {
