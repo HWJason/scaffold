@@ -15,7 +15,7 @@ module.exports = () => {
 
 
    console.log('>>>>>git3333')
-   console.log('3号第四次提交')
+   console.log('3号第五次提交')
 
    // 避免重复添加
    if (!config.tpl[tplName]) {
